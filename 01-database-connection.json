@@ -1,0 +1,16 @@
+{
+  "development": {
+    "host": "localhost",
+    "database": "twitter_clone",
+    "port": 5432,
+    "user": "User42",
+    "password": "Password42"
+  },
+  "test": {
+    "host": "localhost",
+    "database": "twitter_clone",
+    "port": 5432,
+    "user": "User42",
+    "password": "Password42"
+  }
+}
